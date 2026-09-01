@@ -21,7 +21,7 @@ I’m based in Cairo, Egypt and open to freelance, internship, and junior fronte
 ### MediCare Pro — Smart Healthcare Management System
 A team-built healthcare platform with appointment booking, role-based dashboards, payments, and responsive user interfaces.
 
-My contribution focused on the patient and doctor experience, including dashboards, booking flows, profile management, UI integration, and documentation.
+My contribution focused on system architecture, project integration, UI development, documentation, and overall project coordination.
 
 [View project →](https://github.com/A200B5/smart-healthcare-system)
 
