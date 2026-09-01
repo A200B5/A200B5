@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Ahmed Bakr 👋
 
-<!--
-**A200B5/A200B5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | React & JavaScript
 
-Here are some ideas to get you started:
+I build responsive, user-focused web interfaces using React, JavaScript, HTML, and CSS. I enjoy turning ideas and designs into clean, functional web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m based in Cairo, Egypt and open to freelance, internship, and junior frontend opportunities.
+
+## What I work with
+
+- React.js
+- JavaScript
+- HTML & CSS
+- Responsive Web Design
+- React Router
+- REST APIs
+- Git & GitHub
+
+## Featured projects
+
+### MediCare Pro — Smart Healthcare Management System
+A team-built healthcare platform with appointment booking, role-based dashboards, payments, and responsive user interfaces.
+
+My contribution focused on the patient and doctor experience, including dashboards, booking flows, profile management, UI integration, and documentation.
+
+[View project →](https://github.com/A200B5/smart-healthcare-system)
+
+### React Task Manager
+A responsive task management application built with React and JavaScript, featuring a clean interface and local storage.
+
+[View project →](https://github.com/A200B5/task-manager-react)
+
+## Currently building
+
+A polished React landing page for a real-business style project—my next featured portfolio piece.
+
+## Let’s connect
+
+Feel free to explore my projects or reach out through LinkedIn.
