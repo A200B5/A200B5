@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Ahmed Bakr 👋</h1>
+<div align="center">
+  <img src="assets/header.svg" alt="Ahmed Bakr - Frontend Developer" width="100%">
+</div>
 
 <p align="center">
 Frontend and full-stack developer from Giza, Egypt. Computer Science student at Cairo University.<br>
@@ -40,6 +42,6 @@ I take freelance projects: landing pages, React apps, Figma to code, and respons
 - Upwork: [my profile](https://www.upwork.com/freelancers/~01d47b47d9e444d3f9)
 - Email: abakr4268@gmail.com
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A200B5&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="150">
-</p>
+<div align="center">
+  <img src="assets/footer.svg" alt="" width="100%">
+</div>
